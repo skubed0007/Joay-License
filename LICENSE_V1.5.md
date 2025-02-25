@@ -176,6 +176,7 @@ This section explains, in very simple words, what happens if any other software 
 - This 5-day period represents the only time allowed to remedy the issue. The period starts as soon as the notice is issued—whether that notice is sent as a direct communication (like a letter) or published on a public forum. If the notice is public, it must be posted in a manner that ensures the owner of the Third-Party Software is likely to see it (for example, on a widely known platform or with information on where to find the notice). Posting on an obscure or random website will not qualify.
 ### Acknowledged Platforms for Posting about noptice (and possible options for remedies)
 
+#### 12.3.1 
 For the purposes of this License, the following platforms are recognized as widely known and effective for posting and sharing the License or related content. Each platform has specific requirements to ensure that the License is seen and spread by a large, active audience.
 
 ---
@@ -222,6 +223,7 @@ For the purposes of this License, the following platforms are recognized as wide
 - **Why This Matters:**  
   Posting in a large, active subreddit increases the reach and visibility of the License, ensuring that it is shared and discussed among a wide audience.
 
+> Other platforms can be qualified only if the third-party owner is regularly active on them
 ---
 
 *This section is written in very simple and clear language to ensure that everyone understands the exact requirements for posting the License on these platforms. Following these guidelines will help make sure that the License is effectively and widely communicated.*
@@ -230,12 +232,13 @@ For the purposes of this License, the following platforms are recognized as wide
 
 #### 12.4 The Steps for Termination and the Cure Process
 
-1. **Step 1: Written Notice from the Granter**  
-   On the first day (Day 1), the Granter will send a written notice. This notice must include:
+1. **Step 1: Written Notice from the Granter or the public post**  
+   On the first day (Day 1), the Granter will send a written notice or make a public post that follows the guidelines in section 12.3.1 This notice must include:
    - A clear, simple explanation of what harm has been caused.
    - A clear reason that shows why this harm is a problem, using simple and reasonable words.
    - **At least two simple and reasonable options** (ways to fix the harm) that the owner of the other software can choose from.
    - **OR**, if the Granter does not want to give any options, the notice must clearly say, "No remedial options are given."
+   - Once the notice is posted on a public forum, it may not be edited. Follow-up notices are permitted only if the third-party owner chooses to opt for them; otherwise, only the original notice applies.
    
 2. **Step 2: Beginning the Cure Period**  
    The 5-day cure period starts as soon as the written notice is sent with the required remedial options (or the clear statement that there are no options).
